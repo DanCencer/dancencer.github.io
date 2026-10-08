@@ -38,9 +38,9 @@ hugoblox:
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: ""
-      neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
+      primary: "#BB0000"   # Ohio State Scarlet
+      secondary: "#666666" # Ohio State Gray
+      neutral: "gray"
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
@@ -90,7 +90,7 @@ hugoblox:
     # Feature toggles
     search: true
     theme_toggle: true
-    theme_picker: true
+    theme_picker: false
     language_switcher: true
     # Call-to-action button
     cta:
