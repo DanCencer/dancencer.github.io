@@ -35,12 +35,12 @@ hugoblox:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
+    pack: "buckeye"
     # Optional: Override theme pack colors
     colors:
-      primary: "#BB0000"   # Ohio State Scarlet
-      secondary: "#666666" # Ohio State Gray
-      neutral: "gray"
+      primary: ""
+      secondary: ""
+      neutral: ""
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
