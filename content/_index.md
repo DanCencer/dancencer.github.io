@@ -21,12 +21,33 @@ sections:
       background:
         gradient_mesh:
           enable: true
+          colors: ["secondary-500/20", "primary-500/10"]
       name:
         size: md
       avatar:
         size: medium
         shape: circle
-
+        
+  - block: resume-awards
+    id: certifications
+    content:
+      title: Certifications
+      username: me
+    design:
+      background:
+        color:
+          light: "#F2F2F2"
+          dark: "#1F1F1F"
+    awards:
+  - title: Certified Performance and Sport Scientist (CPSS)
+    awarder: National Strength and Conditioning Association
+    date: '[FILL YYYY-MM-01]'
+    icon: hero/academic-cap
+  - title: Certified Strength and Conditioning Specialist (CSCS)
+    awarder: National Strength and Conditioning Association
+    date: '[FILL YYYY-MM-01]'
+    icon: hero/academic-cap
+          
   - block: markdown
     content:
       title: 'What I Do'
