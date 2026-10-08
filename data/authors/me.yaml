@@ -2,115 +2,79 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: Daniel Cencer Jr.
+  given: Daniel
+  family: Cencer
 postnominals:
-  - PhD
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  - M.S.
+  - CSCS
+  - CPSS
+role: Associate Sport Scientist, Ohio State Football
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Dan Cencer is an Associate Sport Scientist for Ohio State Football,
+  where he leads athlete monitoring, technology integration, and data analysis.
+  His work turns GPS, force plate, sprint, and strength data into individualized,
+  decision-ready information for coaches and performance staff. He also leads
+  the program's sport science internship and is pursuing a PhD examining
+  cultural leadership in collegiate athletics.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: The Ohio State University
+    url: https://ohiostatebuckeyes.com/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:cencerjr.1@osu.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/DanCencer
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/daniel-cencer-a72717121/
+   - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Daniel-Cencer?ev=hdr_xprf
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Athlete Monitoring & Decision Support
+  - Individualized Bayesian Baselines
+  - External Load & GPS Analytics
+  - Neuromuscular Fatigue & Force Plate Testing
+  - Leadership & Culture in High-Performance Sport
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
-
+  - degree: PhD Kinesiology (In Progress)
+    institution: The Ohio State University
+  - degree: M.S. Sport Analytics
+    institution: University Of Mississippi
+  - degree: M.S. Exercise Physiology
+    institution: Western Michigan University
+- degree: B.S. Biomedical Sciences
+    institution: Western Michigan University
+    
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Associate Sport Scientist
+    org: Ohio State Football
+    start: 03-01-2025
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Leads daily sport science operations, athlete monitoring, and technology
+      integration. Builds individualized, coach-facing reporting across GPS,
+      force plate, sprint, and strength data, and runs the sport science
+      internship program.
+  - role: Assistant Sport Scientist
+    org: Ohio State Football
+    start: 03-01-2023
+    end: 03-01-2025
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+      Built athlete monitoring and reporting infrastructure in Power BI and
+      Tableau, translating external load and neuromuscular data into
+      decision-ready information for coaches and performance staff.
+  - role: Sport Science Assistant
+    org: Ohio State Football
+    start: 10-01-2021
+    end: 03-01-2023
+    summary: |
+      Supported daily data collection, athlete testing, and technology
+      operations across practice, training, and game weeks.
+  - role: Strength and Conditioning Intern
+    org: Ohio State Football
+    start: 05-01-2021
+    end: 10-01-2021
