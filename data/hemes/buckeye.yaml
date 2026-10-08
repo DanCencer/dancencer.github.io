@@ -1,1 +1,40 @@
+# Ohio State (Buckeye) theme pack
+hugoblox:
+  meta:
+    format: "hugoblox-theme@1"
+    name: "Buckeye"
+    vendor: "dancencer"
+    version: "1.0.0"
+    license: "MIT"
 
+  type: "dual"
+
+  light:
+    colors:
+      primary: "#BB0000"   # Scarlet
+      secondary: "#666666" # Gray
+      neutral: "gray"
+    surfaces:
+      background: "#FFFFFF"
+      foreground: "#1A1A1A"
+      header:
+        background: "#BB0000"
+        foreground: "#FFFFFF"
+      footer:
+        background: "#666666"
+        foreground: "#FFFFFF"
+
+  dark:
+    colors:
+      primary: "#BB0000"
+      secondary: "#888888"
+      neutral: "neutral"
+    surfaces:
+      background: "#121212"
+      foreground: "#F5F5F5"
+      header:
+        background: "#BB0000"
+        foreground: "#FFFFFF"
+      footer:
+        background: "#1E1E1E"
+        foreground: "#E5E5E5"
